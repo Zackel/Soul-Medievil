@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=JefeA
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ JefeA\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=JefeA()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ verifica()
+comment4.params=
+comment4.target=void\ mover()
+comment5.params=
+comment5.target=boolean\ mori()
+comment6.params=
+comment6.target=void\ cambio()
+numComments=7

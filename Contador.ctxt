@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Contador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Contador\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Contador()
+comment2.params=prefi
+comment2.target=Contador(java.lang.String)
+comment2.text=\r\n\ Crea\ un\ nuevo\ Contador\ y\ lo\ inicializa\ en\ ceros\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Animacion\ en\ pantalla\ para\ poder\ contar\ en\ orden\ ascendente\ o\ descente\ \r\n\ con\ el\ valor\ actual\r\n
+comment4.params=puntos
+comment4.target=void\ a\u00F1adir(int)
+comment4.text=\r\nA\u00F1adir\ un\ nueva\ puntuacion\ \ en\ el\ valor\ actual\ del\ contador\r\n
+comment5.params=
+comment5.target=int\ regresaValor()
+comment5.text=\r\n\ regresa\ el\ valor\ del\ contador\r\n
+comment6.params=nValor
+comment6.target=void\ insertaValor(int)
+comment6.text=\r\n\ Establece\ un\ nuevo\ valor\ al\ contador\r\n
+comment7.params=prefi
+comment7.target=void\ insertaCadena(java.lang.String)
+comment7.text=\r\nEstablece\ una\ cadena\ de\ texto\ que\ se\ debe\ mostrar\ antes\ de\ mostrar\ el\ valor\r\n
+comment8.params=
+comment8.target=void\ ImagenAc()
+comment8.text=\r\n\ Actualiza\ la\ imagen\ en\ la\ pantalla\ para\ mostrar\ el\ valor\ actual\r\n
+numComments=9
